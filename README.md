@@ -42,6 +42,10 @@ cp .env.example .env
 python manage.py makemigrations 
 python manage.py migrate
 ```
+6. Run Server
+```bash
+python manage.py runserver
+```
 
 
 
