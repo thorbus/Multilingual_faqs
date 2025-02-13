@@ -16,7 +16,7 @@ A Django-based FAQ management system with multilingual support, WYSIWYG editor i
 
 1. Clone the repository:
 ```bash
-https://github.com/thorbus/BharatFD_Assignment.git
+https://github.com/thorbus/Multilingual_faqs.git
 cd faq_multilingual
 ```
 
